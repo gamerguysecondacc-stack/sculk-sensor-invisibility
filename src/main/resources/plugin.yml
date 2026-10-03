@@ -1,0 +1,6 @@
+name: InvisbleSculkSensors
+version: '${version}'
+
+main: com.Gurke_999.invisbleSculkSensors.InvisbleSculkSensors
+api-version: '26.2'
+load: POSTWORLD
